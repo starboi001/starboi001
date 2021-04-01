@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I work as a front-end developer with CMS skills(Wordpress, Wix) 
-Since 2020 I've been living and breathing web development and creating modern and user friendly interfaces
+Since 2020 I've been living and breathing web development and creating modern and user friendly interfaces.
